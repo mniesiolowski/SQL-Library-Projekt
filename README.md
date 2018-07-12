@@ -9,7 +9,14 @@ osiedlowej biblioteki. Zawiera ona następujące informacje:
 	rodzaje usług jakie świadczy biblioteka, np. wypożyczenie książki czytelnikom,
 	termin wypożyczenia książki.
 
-   
+
+	# ****Projekt Bazy Danych Sklepu****
+   Baza danych związana z funkcjonowaniem sklepu. Sklep sprzedaje towary podzielone na kategorie i dostawców. W bazie danych znajdują się również klienci wraz z dokonanymi zakupami.
+Do bazy danych wprowadzono:
+	•3 kategorie
+	•6 produktów do każdej kategorii
+	•3 dostawców do każdej kategorii
+	•6 klientów
     
 
 ****Links****
