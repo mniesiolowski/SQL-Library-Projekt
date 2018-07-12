@@ -10,7 +10,7 @@ osiedlowej biblioteki. Zawiera ona następujące informacje:
 	termin wypożyczenia książki.
 
 
-	# ****Projekt Bazy Danych Sklepu****
+	#****Projekt Bazy Danych Sklepu****
    Baza danych związana z funkcjonowaniem sklepu. Sklep sprzedaje towary podzielone na kategorie i dostawców. W bazie danych znajdują się również klienci wraz z dokonanymi zakupami.
 Do bazy danych wprowadzono:
 	•3 kategorie
